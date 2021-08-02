@@ -19,14 +19,14 @@ class User:
 
         User.user_list.append(self)
 
-			def delete_user(self):
+    def delete_user(self):
 
         '''
         delete_user method deletes a saved user from the user_list
         '''
         User.user_list.remove(self)	
 
-				    @classmethod
+    @classmethod
     def find_user_by_username(cls,username):
 
         '''
@@ -40,7 +40,7 @@ class User:
             if user.username == username:
                 return user
 
-			    @classmethod
+    @classmethod
     def user_exist(cls,username):
         '''
         Method that checks if a user exists from the user list.
