@@ -10,7 +10,7 @@ It is an application that allows a user to create a password locker with his/her
 
 ## Technologies used
 
-Python3.8.2
+Python3.8.10
 
 ## setUp Installations
 
