@@ -1,4 +1,4 @@
-## PASSWORD-LOCKER
+### PASSWORD-LOCKER
 
 ## Author
 
@@ -10,7 +10,7 @@ It is an application that allows a user to create a password locker with his/her
 
 ## Technologies used
 
-Python3.6
+Python3.8.2
 
 ## setUp Installations
 
